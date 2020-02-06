@@ -1,7 +1,3 @@
-hello shankar
-{
+hai shankar.....
+i am your git repo
 
-
-
-
-}
